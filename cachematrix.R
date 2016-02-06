@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 #Function "makeCacheMatrix" contains several functions.
@@ -42,3 +43,20 @@ cacheSolve <- function(x, ...) {
   x$setinverse(In)
   In
 }
+=======
+## Put comments here that give an overall description of what your
+## functions do
+
+## Write a short comment describing this function
+
+makeCacheMatrix <- function(x = matrix()) {
+
+}
+
+
+## Write a short comment describing this function
+
+cacheSolve <- function(x, ...) {
+        ## Return a matrix that is the inverse of 'x'
+}
+>>>>>>> b9efd1a24b678de813c7143321f332ea2e4ec596
